@@ -113,4 +113,4 @@ await client.relayMessage(m.chat, {
   }
 })
 ```
-Makasi Dhh Pake Ni Bail By Lolipop :>
+Makasi Dhh Pake Ni Bail By XyzLeo :>
